@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "ts-node": "^10.9.1"
+  },
+  "name": "carbman",
+  "version": "0.1.0",
+  "description": "do some card calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pikesley",
+  "license": "MIT"
+}
