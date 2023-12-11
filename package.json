@@ -3,7 +3,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.23.0",
     "jest": "^29.6.2",
     "jest-environment-jsdom": "^29.7.0",
-    "ts-node": "^10.9.1"
+    "ts-node": "^10.9.2"
   },
   "name": "carbman",
   "version": "0.1.0",
